@@ -37,9 +37,9 @@ Scaling bir ekonomi problemi.Çoğu zaman insanların zamanı donanım ücretler
 
 2. ^W.Felix(2019).https://dev.to/wfelix/scaling-up-vs-scaling-out-vertical-vs-horizontal-scalability-lc3
 
-3.^Onur Yılmaz, Süleyman Akbaş(2019)- Introduction to DevOps with Kubernetes(Packtpub)
+3. ^Onur Yılmaz, Süleyman Akbaş(2019)- Introduction to DevOps with Kubernetes(Packtpub)
 
-4.^ Ahmet Alp Balkan(2020)-https://www.youtube.com/watch?v=yw85ehdVWYg
+4. ^Ahmet Alp Balkan(2020)-https://www.youtube.com/watch?v=yw85ehdVWYg
 
 
 
